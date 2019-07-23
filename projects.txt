@@ -56,7 +56,7 @@
     "longitude": 12.024705,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FDB_Regensburg_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "DB Regensburg",
-    "category": "Natural",
+    "category": "Cultural",
     "states": "Germany",
     "inscribed_date": 2017
   }
