@@ -1,5 +1,4 @@
 ﻿{"data":
-[
  {
    "monument_id": 5,
    "site_name": "Felssicherung Passau B12/B388_160511_DE",
@@ -25,5 +24,4 @@
    "isoCode": "de",
    "secondary_dates": 2001
  }
-]
 }

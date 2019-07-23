@@ -1,5 +1,4 @@
 ﻿{"data":
-[
  {
    "monument_id": 4,
    "site_name": "Hollfeld St2189",
@@ -25,5 +24,4 @@
    "isoCode": "de",
    "secondary_dates": 2001
  }
-]
 }

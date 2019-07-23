@@ -1,5 +1,4 @@
 ﻿{"data":
-[
  {
    "monument_id": 3,
    "site_name": "Karlstadt B26_160820_DE",
@@ -25,5 +24,4 @@
    "isoCode": "de",
    "secondary_dates": 2001
  }
-]
 }

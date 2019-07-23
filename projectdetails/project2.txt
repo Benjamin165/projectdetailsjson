@@ -1,5 +1,4 @@
 ﻿{"data":
-[
  {
    "monument_id": 2,
    "site_name": "Oberjoch B308",
@@ -25,5 +24,4 @@
    "isoCode": "de",
    "secondary_dates": 2001
  }
-]
 }

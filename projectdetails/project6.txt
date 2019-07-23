@@ -1,5 +1,4 @@
 ﻿{"data":
-[
  {
    "monument_id": 6,
    "site_name": "DB Regensburg",
@@ -25,5 +24,4 @@
    "isoCode": "de",
    "secondary_dates": 2001
  }
-]
 }
