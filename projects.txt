@@ -8,7 +8,8 @@
     "site_name": "DB Zachenberg km 98-98.35",
     "category": "Natural",
     "states": "Germany",
-    "inscribed_date": 2014
+    "inscribed_date": 2014,
+    "criteria":"GBE-500A, RXE-1000"
   },
   {
     "monument_id": 2,
@@ -18,7 +19,8 @@
     "site_name": "Oberjoch B308",
     "category": "Natural",
     "states": "Germany",
-    "inscribed_date": 2016
+    "inscribed_date": 2016,
+    "criteria":"GBE-500A, GBE-500A-2"
   },
   {
     "monument_id": 3,
@@ -28,7 +30,8 @@
     "site_name": "Karlstadt B26",
     "category": "Natural",
     "states": "Germany",
-    "inscribed_date": 2017
+    "inscribed_date": 2017,
+    "criteria":"RXE-3000"
   },
   {
     "monument_id": 4,
@@ -38,7 +41,8 @@
     "site_name": "Hollfeld St2189",
     "category": "Natural",
     "states": "Germany",
-    "inscribed_date": 2017
+    "inscribed_date": 2017,
+    "criteria":"RXE-500-LA"
   },
   {
     "monument_id": 5,
@@ -48,7 +52,8 @@
     "site_name": "Felssicherung Passau B12/B388",
     "category": "Natural",
     "states": "Germany",
-    "inscribed_date": 2017
+    "inscribed_date": 2017,
+    "criteria":"RXE-1000, RXE-500-LA"
   },
   {
     "monument_id": 6,
@@ -58,7 +63,8 @@
     "site_name": "DB Regensburg",
     "category": "Cultural",
     "states": "Germany",
-    "inscribed_date": 2017
+    "inscribed_date": 2017,
+    "criteria":"RXE-500-LA, RXE-1000-4"
   }
 ]
 }
