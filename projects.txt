@@ -6,7 +6,7 @@
     "longitude": 12.994826,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FZachenberg_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "DB Zachenberg km 98-98.35",
-    "category": "Natural",
+    "category": "Rockfall",
     "states": "Germany",
     "inscribed_date": 2014,
     "criteria":"GBE-500A, RXE-1000"
@@ -17,7 +17,7 @@
     "longitude": 10.390112,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FOberjoch_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "Oberjoch B308",
-    "category": "Natural",
+    "category": "Rockfall",
     "states": "Germany",
     "inscribed_date": 2016,
     "criteria":"GBE-500A, GBE-500A-2"
@@ -28,7 +28,7 @@
     "longitude": 9.759026,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKarlstadt_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "Karlstadt B26",
-    "category": "Natural",
+    "category": "Rockfall",
     "states": "Germany",
     "inscribed_date": 2017,
     "criteria":"RXE-3000"
@@ -39,7 +39,7 @@
     "longitude": 11.292152,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FHollfeld_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "Hollfeld St2189",
-    "category": "Natural",
+    "category": "Rockfall",
     "states": "Germany",
     "inscribed_date": 2017,
     "criteria":"RXE-500-LA"
@@ -50,7 +50,7 @@
     "longitude": 13.491889,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FFelssicherung_Passau_142x80.jpg&new_max_width=400&new_max_height=600&fbclid=IwAR2LFLDOUhzKlHhf-hTyi5mE3vVCdG73RA0phmlIdGCCJAjVAUXneaq6Ngk",
     "site_name": "Felssicherung Passau",
-    "category": "Natural",
+    "category": "Rockfall",
     "states": "Germany",
     "inscribed_date": 2017,
     "criteria":"RXE-1000, RXE-500-LA"
@@ -61,7 +61,7 @@
     "longitude": 12.024705,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FDB_Regensburg_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "DB Regensburg",
-    "category": "Cultural",
+    "category": "Rockfall",
     "states": "Germany",
     "inscribed_date": 2017,
     "criteria":"RXE-500-LA, RXE-1000-4"
@@ -72,7 +72,7 @@
     "longitude": 7.181564,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FCochem_thumbnail_142x80.JPG&new_max_width=400&new_max_height=600",
     "site_name": "DB Cochem",
-    "category": "Cultural",
+    "category": "Rockfall",
     "states": "Germany",
     "inscribed_date": 2010,
     "criteria":"RXI-100"
@@ -83,7 +83,7 @@
     "longitude": 11.668207,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2F8_Dornburg_thumbnail_142x80.JPG&new_max_width=400&new_max_height=600",
     "site_name": "Dornburg L 2303",
-    "category": "Cultural",
+    "category": "Rockfall",
     "states": "Germany",
     "inscribed_date": 2013,
     "criteria":"RXI-300, GBE-5000A, TXI-010G, RXI-025"
@@ -94,7 +94,7 @@
     "longitude": 14.0578409,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRenke_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "Renke L2",
-    "category": "Cultural",
+    "category": "Slope",
     "states": "Slovenia",
     "inscribed_date": 2017,
     "criteria":"RXE-500"
