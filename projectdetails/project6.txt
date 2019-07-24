@@ -10,7 +10,7 @@
    "criteria": "RXE-500-LA, RXE-1000-4",
    "danger": "https://projectdetailsjson.netlify.com/systemdrawings/zachenberg1.pdf",
    "inscribed_date": 2017,
-   "extension": 1,
+   "extension": 0,
    "historical_description": "Planer",
    "site_url": "https://geobrugg.com",
    "justification": "",

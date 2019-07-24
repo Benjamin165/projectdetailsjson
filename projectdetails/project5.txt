@@ -1,7 +1,7 @@
 ﻿{"data":
  {
    "monument_id": 5,
-   "site_name": "Felssicherung Passau B12/B388_160511_DE",
+   "site_name": "Felssicherung Passau B12/B388",
    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FFelssicherung_Passau_142x80.jpg&new_max_width=400&new_max_height=600&fbclid=IwAR2LFLDOUhzKlHhf-hTyi5mE3vVCdG73RA0phmlIdGCCJAjVAUXneaq6Ngk",
    "latitude": 48.575925,
    "longitude": 13.491889,

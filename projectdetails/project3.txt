@@ -1,7 +1,7 @@
 ﻿{"data":
  {
    "monument_id": 3,
-   "site_name": "Karlstadt B26_160820_DE",
+   "site_name": "Karlstadt B26",
    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKarlstadt_142x80.jpg&new_max_width=400&new_max_height=600",
    "latitude": 49.992146,
    "longitude": 9.759026,

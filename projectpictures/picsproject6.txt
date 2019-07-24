@@ -3,20 +3,26 @@
   {
     "picture_id": 1,
     "approved": 1,
-    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/65977/slider_detail_RXE-500-LA-Passau-B388-B12-2018-0066003.jpg",
-    "monument_id": 5
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRXE-1000_DB-Regensburg-DE-4.jpg",
+    "monument_id": 6
   },
   {
     "picture_id": 2,
     "approved": 1,
-    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/65977/slider_detail_RXE-500-LA-Passau-B388-B12-2018-0066002.jpg",
-    "monument_id": 5
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FTECCO-G65-3_DB-Regensburg-DE-7.jpg",
+    "monument_id": 6
   },
   {
     "picture_id": 3,
     "approved": 1,
-    "picture_url": "https://www.geobrugg.com/portal/projektdb/pics/berechnet/65977/slider_detail_RXE-500-LA-Passau-B388-B12-2018-0076424.jpg",
-    "monument_id": 5
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FTECCO-G65-3_DB-Regensburg-DE-9.jpg",
+    "monument_id": 6
+  },
+  {
+    "picture_id": 4,
+    "approved": 1,
+    "picture_url": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2F20171128_141710.jpg",
+    "monument_id": 6
   }
 ]
 }
