@@ -8,7 +8,7 @@
    "category": "Cultural",
    "states": "Germany",
    "criteria": "RXE-500-LA, RXE-1000-4",
-   "danger": "Kunde",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/zachenberg1.pdf",
    "inscribed_date": 2017,
    "extension": 1,
    "historical_description": "Planer",

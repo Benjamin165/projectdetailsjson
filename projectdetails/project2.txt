@@ -8,7 +8,7 @@
    "category": "Natural",
    "states": "Germany",
    "criteria": "GBE-500A, GBE-500A-2",
-   "danger": "Kunde",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/zachenberg1.pdf",
    "inscribed_date": 2016,
    "extension": 1,
    "historical_description": "Planer",
