@@ -49,7 +49,7 @@
     "latitude": 48.575925,
     "longitude": 13.491889,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FFelssicherung_Passau_142x80.jpg&new_max_width=400&new_max_height=600&fbclid=IwAR2LFLDOUhzKlHhf-hTyi5mE3vVCdG73RA0phmlIdGCCJAjVAUXneaq6Ngk",
-    "site_name": "Felssicherung Passau B12/B388",
+    "site_name": "Felssicherung Passau",
     "category": "Natural",
     "states": "Germany",
     "inscribed_date": 2017,
@@ -65,6 +65,39 @@
     "states": "Germany",
     "inscribed_date": 2017,
     "criteria":"RXE-500-LA, RXE-1000-4"
+  },
+  {
+    "monument_id": 7,
+    "latitude": 50.162984,
+    "longitude": 7.181564,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FCochem_thumbnail_142x80.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "DB Cochem",
+    "category": "Cultural",
+    "states": "Germany",
+    "inscribed_date": 2010,
+    "criteria":"RXI-100"
+  },
+  {
+    "monument_id": 8,
+    "latitude": 51.00477,
+    "longitude": 11.668207,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2F8_Dornburg_thumbnail_142x80.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Dornburg L 2303",
+    "category": "Cultural",
+    "states": "Germany",
+    "inscribed_date": 2013,
+    "criteria":"RXI-300, GBE-5000A, TXI-010G, RXI-025"
+  },
+  {
+    "monument_id": 9,
+    "latitude": 45.9676131,
+    "longitude": 14.0578409,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRenke_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+    "site_name": "Renke L2",
+    "category": "Cultural",
+    "states": "Slovenia",
+    "inscribed_date": 2017,
+    "criteria":"RXE-500"
   }
 ]
 }

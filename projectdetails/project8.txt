@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 8,
+   "site_name": "Dornburg L 2303",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2F8_Dornburg_thumbnail_142x80.JPG&new_max_width=400&new_max_height=600",
+   "latitude": 51.00477,
+   "longitude": 11.668207,
+   "category": "Cultural",
+   "states": "Germany",
+   "criteria": "RXI-300, GBE-5000A, TXI-010G, RXI-025",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/8_dornburg.pdf",
+   "inscribed_date": 2013,
+   "extension": 1,
+   "historical_description": "https://projectdetailsjson.netlify.com/acceptance_certificate/8_dornburg.pdf",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "South Germany",
+   "revision": 0,
+   "short_description": "What we did",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "de",
+   "secondary_dates": 2001
+ }
+}
