@@ -5,7 +5,7 @@
    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FCochem_thumbnail_142x80.JPG&new_max_width=400&new_max_height=600",
    "latitude": 50.162984,
    "longitude": 7.181564,
-   "category": "Natural",
+   "category": "Rockfall",
    "states": "Germany",
    "criteria": "RXI-100",
    "danger": "https://projectdetailsjson.netlify.com/systemdrawings/7_cochem.pdf",

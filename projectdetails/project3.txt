@@ -5,7 +5,7 @@
    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKarlstadt_142x80.jpg&new_max_width=400&new_max_height=600",
    "latitude": 49.992146,
    "longitude": 9.759026,
-   "category": "Natural",
+   "category": "Rockfall",
    "states": "Germany",
    "criteria": "RXE-3000",
    "danger": "https://projectdetailsjson.netlify.com/systemdrawings/3_karlstadt.pdf",

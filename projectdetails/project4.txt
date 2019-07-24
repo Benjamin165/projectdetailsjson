@@ -5,7 +5,7 @@
    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FHollfeld_142x80.jpg&new_max_width=400&new_max_height=600",
    "latitude": 49.959275,
    "longitude": 11.292152,
-   "category": "Natural",
+   "category": "Rockfall",
    "states": "Germany",
    "criteria": "RXE-500-LA",
    "danger": "https://projectdetailsjson.netlify.com/systemdrawings/4_hollfeld.pdf",
