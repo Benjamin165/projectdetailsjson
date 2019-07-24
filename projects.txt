@@ -5,7 +5,7 @@
     "latitude": 48.973298,
     "longitude": 12.994826,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FZachenberg_142x80.jpg&new_max_width=400&new_max_height=600",
-    "site_name": "DB Zachenberg 2014 km 98-98.35",
+    "site_name": "DB Zachenberg km 98-98.35",
     "category": "Natural",
     "states": "Germany",
     "inscribed_date": 2014
@@ -25,7 +25,7 @@
     "latitude": 49.992146,
     "longitude": 9.759026,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKarlstadt_142x80.jpg&new_max_width=400&new_max_height=600",
-    "site_name": "Karlstadt B26_160820_DE",
+    "site_name": "Karlstadt B26",
     "category": "Natural",
     "states": "Germany",
     "inscribed_date": 2017
@@ -45,7 +45,7 @@
     "latitude": 48.575925,
     "longitude": 13.491889,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FFelssicherung_Passau_142x80.jpg&new_max_width=400&new_max_height=600&fbclid=IwAR2LFLDOUhzKlHhf-hTyi5mE3vVCdG73RA0phmlIdGCCJAjVAUXneaq6Ngk",
-    "site_name": "Felssicherung Passau B12/B388_160511_DE",
+    "site_name": "Felssicherung Passau B12/B388",
     "category": "Natural",
     "states": "Germany",
     "inscribed_date": 2017
