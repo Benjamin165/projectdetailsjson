@@ -163,7 +163,7 @@
     "category": "Corrosion",
     "states": "United Kingdom",
     "inscribed_date": 2019,
-    "criteria": "Ultracoated TECCO and GBE-100A-R",
+    "criteria": "Ultracoated TECCO and GBE-100A-R"
   },
   {
     "monument_id": 17,
