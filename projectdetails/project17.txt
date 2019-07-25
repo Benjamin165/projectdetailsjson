@@ -1,13 +1,13 @@
 ﻿{"data":
  {
-   "monument_id": 10,
-   "site_name": "Stromeferry",
+   "monument_id": 17,
+   "site_name": "Los Ranchos, Copan, Honduras",
    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
-   "latitude": 57.381111,
-   "longitude": -5.475278,
+   "latitude": 14.929667,
+   "longitude": -88.967,
    "category": "Corrosion",
-   "states": "United Kingdom",
-   "criteria": "TECCO",
+   "states": "Honduras",
+   "criteria": "SL Barrier",
    "danger": "",
    "inscribed_date": 2019,
    "extension": 0,
@@ -16,12 +16,12 @@
    "justification": "",
    "location_description": "Location description",
    "long_descsription": "<p>Situation</p>",
-   "region": "United Kingdom",
+   "region": "Honduras",
    "revision": 0,
-   "short_description": "The Corrosion Indicator is approximately 150m to the west of the avalanche shelter\nIt's about 1.5m above road level.",
+   "short_description": "Km 36 (HN), con Occidental road close of Copan ruins\nAddress: Occidental road, km 36+350, sector Los Ranchos. Copan. Honduras",
    "transboundary": 0,
    "unique_number": 4,
-   "isoCode": "uk",
+   "isoCode": "hn",
    "secondary_dates": 2001
  }
 }
