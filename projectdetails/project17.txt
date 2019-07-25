@@ -18,7 +18,7 @@
    "long_descsription": "<p>Situation</p>",
    "region": "Honduras",
    "revision": 0,
-   "short_description": "Km 36 (HN), con Occidental road close of Copan ruins\nAddress: Occidental road, km 36+350, sector Los Ranchos. Copan. Honduras",
+   "short_description": "Km 36 (HN), con Occidental road close of Copan ruins. Address: Occidental road, km 36+350, sector Los Ranchos. Copan. Honduras",
    "transboundary": 0,
    "unique_number": 4,
    "isoCode": "hn",
