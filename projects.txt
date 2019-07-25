@@ -196,7 +196,7 @@
     "category": "Corrosion",
     "states": "New Zealand",
     "inscribed_date": 2019,
-    "criteria": "Several systems",
+    "criteria": "Several systems"
   },
   {
     "monument_id": 20,
@@ -207,7 +207,7 @@
     "category": "Corrosion",
     "states": "Australia",
     "inscribed_date": 2019,
-    "criteria": "TECCO Stainless",
+    "criteria": "TECCO Stainless"
   },
   {
     "monument_id": 21,
@@ -218,7 +218,7 @@
     "category": "Corrosion",
     "states": "Australia",
     "inscribed_date": 2019,
-    "criteria": "DELTAX G80/2",
+    "criteria": "DELTAX G80/2"
   },
   {
     "monument_id": 22,
@@ -229,7 +229,7 @@
     "category": "Corrosion",
     "states": "Australia",
     "inscribed_date": 2019,
-    "criteria": "DELTAX 45/2 SuCo",
+    "criteria": "DELTAX 45/2 SuCo"
   },
   {
     "monument_id": 23,
@@ -240,7 +240,7 @@
     "category": "Corrosion",
     "states": "Germany",
     "inscribed_date": 2019,
-    "criteria": "",
+    "criteria": ""
   },
   {
     "monument_id": 24,
@@ -251,7 +251,7 @@
     "category": "Corrosion",
     "states": "Switzerland",
     "inscribed_date": 2019,
-    "criteria": "",
+    "criteria": ""
   },
   {
     "monument_id": 25,
@@ -262,7 +262,7 @@
     "category": "Corrosion",
     "states": "Poland",
     "inscribed_date": 2019,
-    "criteria": "",
+    "criteria": ""
   },
   {
     "monument_id": 26,
@@ -273,7 +273,7 @@
     "category": "Corrosion",
     "states": "Poland",
     "inscribed_date": 2019,
-    "criteria": "SLOPE TECCO",
+    "criteria": "SLOPE TECCO"
   },
   {
     "monument_id": 27,
@@ -284,7 +284,7 @@
     "category": "Corrosion",
     "states": "Canada",
     "inscribed_date": 2019,
-    "criteria": "MINAX 80/3 SUCO",
+    "criteria": "MINAX 80/3 SUCO"
   },
   {
     "monument_id": 28,
@@ -295,7 +295,7 @@
     "category": "Corrosion",
     "states": "USA",
     "inscribed_date": 2019,
-    "criteria": "G65-4mm, TECCO",
+    "criteria": "G65-4mm, TECCO"
   }
 ]
 }
