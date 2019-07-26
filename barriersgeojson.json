@@ -257,6 +257,30 @@
         "type": "LineString",
         "coordinates":   [[11.997477, 49.020408], [11.998346, 49.020235], [11.999174, 49.020024]]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates":   [[-3.597421, 53.279135], [-3.596865, 53.2778], [-3.595993, 53.277092]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates":   [[-4.689703, 51.71932], [-4.689462, 51.719557], [-4.689184, 51.719758]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates":   [[-5.342296, 36.129923], [-5.342188, 36.129583], [-5.342031, 36.129362]]
+      }
     }
   ]
 }

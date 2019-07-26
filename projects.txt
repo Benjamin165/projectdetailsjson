@@ -296,6 +296,39 @@
     "states": "USA",
     "inscribed_date": 2019,
     "criteria": "G65-4mm, TECCO"
+  },
+  {
+    "monument_id": 29,
+    "latitude": 53.2778,
+    "longitude": -3.596865,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FGBE-500A-R_GB_Abergele-thumbnail_142x80.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Abergele",
+    "category": "Rockfall",
+    "states": "United Kingdom",
+    "inscribed_date": 2016,
+    "criteria": "GBE-500A-R"
+  },
+  {
+    "monument_id": 30,
+    "latitude": 51.719557,
+    "longitude": -4.689462,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fwisemansbridge-thumbnail.jpg&new_max_width=400&new_max_height=600",
+    "site_name": "Wisemans Bridge",
+    "category": "Rockfall",
+    "states": "United Kingdom",
+    "inscribed_date": 2016,
+    "criteria": "GBE-100A-R"
+  },
+  {
+    "monument_id": 31,
+    "latitude": 36.129583,
+    "longitude": -5.342188,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRXE-5000_GI_Eastside-Catchments-thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Eastside Catchments",
+    "category": "Rockfall",
+    "states": "United Kingdom",
+    "inscribed_date": 2016,
+    "criteria": "RXE-5000"
   }
 ]
 }
