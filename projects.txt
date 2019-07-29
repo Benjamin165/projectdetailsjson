@@ -329,6 +329,17 @@
     "states": "United Kingdom",
     "inscribed_date": 2016,
     "criteria": "RXE-5000"
+  },
+  {
+    "monument_id": 32,
+    "latitude": 43.320785,
+    "longitude": -2.005396,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRXE-5000_GI_Eastside-Catchments-thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Donostia San Sebastián",
+    "category": "Rockfall",
+    "states": "Spain",
+    "inscribed_date": 2016,
+    "criteria": "RXE-2000"
   }
 ]
 }
