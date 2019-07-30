@@ -5,7 +5,7 @@
    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRenke_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
    "latitude": 45.9676131,
    "longitude": 14.0578409,
-   "category": "Slope",
+   "category": "Rockfall",
    "states": "Slovenia",
    "criteria": "RXE-500",
    "danger": "https://projectdetailsjson.netlify.com/systemdrawings/9_renke.pdf",
