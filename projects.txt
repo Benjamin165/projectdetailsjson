@@ -340,6 +340,61 @@
     "states": "Spain",
     "inscribed_date": 2016,
     "criteria": "RXE-2000"
+  },
+  {
+    "monument_id": 33,
+    "latitude": 46.159724,
+    "longitude": 5.664092,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FSylans-Thumbnail.jpg&new_max_width=400&new_max_height=600",
+    "site_name": "SNCF - Sylans",
+    "category": "Slope",
+    "states": "France",
+    "inscribed_date": 201X,
+    "criteria": "TECCO G65/3"
+  },
+  {
+    "monument_id": 34,
+    "latitude": 43.295770,
+    "longitude": -0.385696,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FPau-Thumbnail.jpg&new_max_width=400&new_max_height=600",
+    "site_name": "Pau - Parc du Château",
+    "category": "Slope",
+    "states": "France",
+    "inscribed_date": 201X,
+    "criteria": "TECCO G65/3"
+  },
+  {
+    "monument_id": 35,
+    "latitude": 43.459433,
+    "longitude": -1.577574,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FIllbaritz-Thumbnail.jpg&new_max_width=400&new_max_height=600",
+    "site_name": "Bidard - Plage d'Illbaritz",
+    "category": "Slope",
+    "states": "France",
+    "inscribed_date": 201X,
+    "criteria": "TECCO G65/3"
+  },
+  {
+    "monument_id": 36,
+    "latitude": 36.644854,
+    "longitude": 5.233310,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FAokas-Thumbnail.jpg&new_max_width=400&new_max_height=600",
+    "site_name": "Algérie - Cap Aokas",
+    "category": "Slope",
+    "states": "Algeria",
+    "inscribed_date": 2018,
+    "criteria": "RXE-5000, GBE-3000A"
+  },
+  {
+    "monument_id": 37,
+    "latitude": 43.164495,
+    "longitude": 6.460386,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Rayol-Canadel",
+    "category": "Slope",
+    "states": "France",
+    "inscribed_date": 2019,
+    "criteria": "GBE-2000A"
   }
 ]
 }
