@@ -380,7 +380,7 @@
     "longitude": 5.233310,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FAokas-Thumbnail.jpg&new_max_width=400&new_max_height=600",
     "site_name": "Algérie - Cap Aokas",
-    "category": "Slope",
+    "category": "Rockfall",
     "states": "Algeria",
     "inscribed_date": 2018,
     "criteria": "RXE-5000, GBE-3000A"
@@ -391,7 +391,7 @@
     "longitude": 6.460386,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
     "site_name": "Rayol-Canadel",
-    "category": "Slope",
+    "category": "Rockfall",
     "states": "France",
     "inscribed_date": 2019,
     "criteria": "GBE-2000A"

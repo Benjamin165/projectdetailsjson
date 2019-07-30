@@ -5,7 +5,7 @@
    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FAokas-Thumbnail.jpg&new_max_width=400&new_max_height=600",
    "latitude": 36.644854,
    "longitude": 5.233310,
-   "category": "Slope",
+   "category": "Rockfall",
    "states": "France",
    "criteria": "RXE-5000, GBE-3000A",
    "danger": "",

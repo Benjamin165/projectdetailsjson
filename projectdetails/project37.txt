@@ -5,7 +5,7 @@
    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
    "latitude": 43.164495,
    "longitude": 6.460386,
-   "category": "Slope",
+   "category": "Rockfall",
    "states": "France",
    "criteria": "GBE-2000A",
    "danger": "",
