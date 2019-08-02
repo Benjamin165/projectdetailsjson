@@ -395,6 +395,94 @@
     "states": "France",
     "inscribed_date": 2019,
     "criteria": "GBE-2000A"
+  },
+  {
+    "monument_id": 38,
+    "latitude": 42.99081,
+    "longitude": 13.451162,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Smerillo",
+    "category": "Rockfall",
+    "states": "Italy",
+    "inscribed_date": 2019,
+    "criteria": "RXE-5000"
+  },
+  {
+    "monument_id": 39,
+    "latitude": 42.519242,
+    "longitude": 13.553166,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Pietracamela",
+    "category": "Rockfall",
+    "states": "Italy",
+    "inscribed_date": 2019,
+    "criteria": "RXE-5000"
+  },
+  {
+    "monument_id": 40,
+    "latitude": 41.92116,
+    "longitude": 13.875455,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Villalago",
+    "category": "Rockfall",
+    "states": "Italy",
+    "inscribed_date": 2019,
+    "criteria": "GBE-500A, GBE-1000A"
+  },
+  {
+    "monument_id": 41,
+    "latitude": 49.477132,
+    "longitude": 20.427773,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Krościenko-Kłodno",
+    "category": "Rockfall",
+    "states": "Poland",
+    "inscribed_date": 2017,
+    "criteria": "GBE-500LA"
+  },
+  {
+    "monument_id": 42,
+    "latitude": 49.433043,
+    "longitude": 20.716575,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Piwniczna",
+    "category": "Rockfall",
+    "states": "Poland",
+    "inscribed_date": 2019,
+    "criteria": "GBE-500A"
+  },
+  {
+    "monument_id": 43,
+    "latitude": 45.173499,
+    "longitude": 24.173775,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fromania1_thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "RO-070701 DN 7",
+    "category": "Rockfall",
+    "states": "Romania",
+    "inscribed_date": 2010,
+    "criteria": "RXI-2000"
+  },
+  {
+    "monument_id": 44,
+    "latitude": 45.374455,
+    "longitude": 24.34596,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fromania2_thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "DJ105G-120703-RO",
+    "category": "Rockfall",
+    "states": "Romania",
+    "inscribed_date": 2014,
+    "criteria": "GBE-1000A"
+  },
+  {
+    "monument_id": 45,
+    "latitude": 47.222837,
+    "longitude": 24.491291,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fromania3_thumbnail.JPG&new_max_width=400&new_max_height=600",
+    "site_name": "Ilva-120829-RO",
+    "category": "Rockfall",
+    "states": "Romania",
+    "inscribed_date": 2013,
+    "criteria": "GBE-500A-R"
   }
 ]
 }
