@@ -2,7 +2,7 @@
  {
    "monument_id": 42,
    "site_name": "Piwniczna",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRayol-Canadel-Thumbnail.JPG&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fpoland2_thumbnail.JPG&new_max_width=400&new_max_height=600",
    "latitude": 49.433043,
    "longitude": 20.716575,
    "category": "Rockfall",
