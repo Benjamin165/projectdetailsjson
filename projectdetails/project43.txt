@@ -8,7 +8,7 @@
    "category": "Rockfall",
    "states": "Romania",
    "criteria": "RXI-2000",
-   "danger": "",
+   "danger": "https://projectdetailsjson.netlify.com/systemdrawings/43_romania1.pdf",
    "inscribed_date": 2010,
    "extension": 0,
    "historical_description": "",
