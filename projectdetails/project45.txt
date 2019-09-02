@@ -2,7 +2,7 @@
  {
    "monument_id": 45,
    "site_name": "Ilva-120829-RO",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fromania3_thumbnail.JPG&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fromania3_thumbnail.jpg&new_max_width=400&new_max_height=600",
    "latitude": 47.222837,
    "longitude": 24.491291,
    "category": "Rockfall",
