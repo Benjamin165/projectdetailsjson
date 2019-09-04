@@ -2,7 +2,7 @@
  {
    "monument_id": 25,
    "site_name": "Piwniczna, Zdrój",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRenke_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
    "latitude": 49.499483,
    "longitude": 20.673046,
    "category": "Corrosion",
