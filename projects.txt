@@ -538,6 +538,6 @@
     "states": "Mexico",
     "inscribed_date": 2019,
     "criteria": "TECCO G65/3"
-  },
+  }
 ]
 }
