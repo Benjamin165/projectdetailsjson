@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 46,
+   "site_name": "Lyme Regis",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "latitude": -2.292167,
+   "longitude": 50.727306,
+   "category": "Corrosion",
+   "states": "United Kingdom",
+   "criteria": "TECCO Stainless",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "United Kingdom",
+   "revision": 0,
+   "short_description": "",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "hn",
+   "secondary_dates": 2001
+ }
+}

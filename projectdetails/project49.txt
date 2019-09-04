@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 49,
+   "site_name": "Pabellón de Pica",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "latitude": -70.09231,
+   "longitude": -21.21392,
+   "category": "Corrosion",
+   "states": "Chile",
+   "criteria": "MINAX® G80/3",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Chile",
+   "revision": 0,
+   "short_description": "Tapaca region Route 1, kilometer 294.2, about 2.5 meter from the ground",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "hn",
+   "secondary_dates": 2001
+ }
+}
