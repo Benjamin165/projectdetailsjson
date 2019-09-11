@@ -2,7 +2,7 @@
  {
    "monument_id": 17,
    "site_name": "Los Ranchos, Copan, Honduras",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Flosranchos_4.JPG&new_max_width=142&new_max_height=80",
    "latitude": 14.929667,
    "longitude": -88.967,
    "category": "Corrosion",

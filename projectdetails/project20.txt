@@ -2,7 +2,7 @@
  {
    "monument_id": 20,
    "site_name": "Paddy's Path",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRenke_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fpaddyspath_2.JPG&new_max_width=142&new_max_height=80",
    "latitude": -38.63325,
    "longitude": 143.893944,
    "category": "Corrosion",

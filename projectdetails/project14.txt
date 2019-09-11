@@ -2,7 +2,7 @@
  {
    "monument_id": 14,
    "site_name": "Mullion Cove, Cornwall ",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fmullioncove_tn.JPG&new_max_width=142&new_max_height=80",
    "latitude": 50.015528,
    "longitude": -5.258861,
    "category": "Corrosion",

@@ -2,7 +2,7 @@
  {
    "monument_id": 11,
    "site_name": "Greatwestern beach",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fgreatwestern_4.JPG&new_max_width=142&new_max_height=80",
    "latitude": 50.416611,
    "longitude": -5.076056,
    "category": "Corrosion",
