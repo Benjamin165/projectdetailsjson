@@ -259,7 +259,7 @@
     "longitude": 9.361222,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "Romanshorn Headquarters",
-    "category": "Corrosion",
+    "category": "Smartbox",
     "states": "Switzerland",
     "inscribed_date": 2019,
     "criteria": ""
