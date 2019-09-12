@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 51,
+   "site_name": "Zagorje-Renke",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+   "latitude": 46.108169,
+   "longitude": 14.969998,
+   "category": "Smartbox",
+   "states": "Slovenia",
+   "criteria": "RXE-500",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "SI0001cP3",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Slovenia",
+   "revision": 0,
+   "short_description": "",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "si",
+   "secondary_dates": 2001
+ }
+}

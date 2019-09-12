@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 53,
+   "site_name": "Altstätten",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+   "latitude": 47.2249,
+   "longitude": 9.32,
+   "category": "Smartbox",
+   "states": "Switzerland",
+   "criteria": "VX-080",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "CH0001a3",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Switzerland",
+   "revision": 0,
+   "short_description": "",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "ch",
+   "secondary_dates": 2001
+ }
+}

@@ -538,6 +538,127 @@
     "states": "Mexico",
     "inscribed_date": 2019,
     "criteria": "TECCO G65/3"
+  },
+  {
+    "monument_id": 50,
+    "latitude": 46.107642,
+    "longitude": 14.969247,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Zagorje-Renke",
+    "category": "Smartbox",
+    "states": "Slovenia",
+    "inscribed_date": 2019,
+    "criteria": "RXE-500"
+  },
+  {
+    "monument_id": 51,
+    "latitude": 46.108169,
+    "longitude": 14.969998,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Zagorje-Renke",
+    "category": "Smartbox",
+    "states": "Slovenia",
+    "inscribed_date": 2019,
+    "criteria": "RXE-500"
+  },
+  {
+    "monument_id": 52,
+    "latitude": 46.108088,
+    "longitude": 14.969901,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Zagorje-Renke",
+    "category": "Smartbox",
+    "states": "Slovenia",
+    "inscribed_date": 2019,
+    "criteria": "RXE-500"
+  },
+  {
+    "monument_id": 53,
+    "latitude": 47.2249,
+    "longitude": 9.32,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Altstätten",
+    "category": "Smartbox",
+    "states": "Switzerland",
+    "inscribed_date": 2019,
+    "criteria": "VX-080"
+  },
+  {
+    "monument_id": 54,
+    "latitude": 47.2249,
+    "longitude": 9.32,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Altstätten",
+    "category": "Smartbox",
+    "states": "Switzerland",
+    "inscribed_date": 2019,
+    "criteria": "VX-080"
+  },
+  {
+    "monument_id": 55,
+    "latitude": 47.249,
+    "longitude": 9.1928,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Kubel St. Gallen",
+    "category": "Smartbox",
+    "states": "Switzerland",
+    "inscribed_date": 2019,
+    "criteria": "RXI-025"
+  },
+  {
+    "monument_id": 56,
+    "latitude": 47.248,
+    "longitude": 9.1928,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Kubel St. Gallen",
+    "category": "Smartbox",
+    "states": "Switzerland",
+    "inscribed_date": 2019,
+    "criteria": "RXI-025"
+  },
+  {
+    "monument_id": 57,
+    "latitude": 47.245,
+    "longitude": 9.1931,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Kubel St. Gallen",
+    "category": "Smartbox",
+    "states": "Switzerland",
+    "inscribed_date": 2019,
+    "criteria": "RXI-025"
+  },
+  {
+    "monument_id": 58,
+    "latitude": 47.823104,
+    "longitude": 9.305184,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Heiligenberg",
+    "category": "Smartbox",
+    "states": "Switzerland",
+    "inscribed_date": 2019,
+    "criteria": "RXI-050"
+  },
+  {
+    "monument_id": 59,
+    "latitude": 47.822923,
+    "longitude": 9.305469,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Heiligenberg",
+    "category": "Smartbox",
+    "states": "Switzerland",
+    "inscribed_date": 2019,
+    "criteria": "RXI-050"
+  },
+  {
+    "monument_id": 60,
+    "latitude": 47.822940,
+    "longitude": 9.305812,
+    "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+    "site_name": "Heiligenberg",
+    "category": "Smartbox",
+    "states": "Switzerland",
+    "inscribed_date": 2019,
+    "criteria": "RXI-050"
   }
 ]
 }

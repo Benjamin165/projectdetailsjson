@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 56,
+   "site_name": "Kubel St. Gallen",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+   "latitude": 47.248,
+   "longitude": 9.1928,
+   "category": "Smartbox",
+   "states": "Switzerland",
+   "criteria": "RXI-025",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "CH0002b3",
+   "site_url": "https://geobrugg.com",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "Switzerland",
+   "revision": 0,
+   "short_description": "",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "ch",
+   "secondary_dates": 2001
+ }
+}
