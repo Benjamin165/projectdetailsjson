@@ -2,7 +2,7 @@
  {
    "monument_id": 60,
    "site_name": "Heiligenberg",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg3.jpg",
    "latitude": 47.822940,
    "longitude": 9.305812,
    "category": "Smartbox",

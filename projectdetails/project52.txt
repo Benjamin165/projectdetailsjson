@@ -2,7 +2,7 @@
  {
    "monument_id": 52,
    "site_name": "Zagorje-Renke",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Ftijuana_3.jpg&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/50_Zagorje/zagorje_sb_1.jpg",
    "latitude": 46.108088,
    "longitude": 14.969901,
    "category": "Smartbox",
