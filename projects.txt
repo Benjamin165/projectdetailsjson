@@ -5,7 +5,7 @@
     "latitude": 48.973298,
     "longitude": 12.994826,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FZachenberg_142x80.jpg&new_max_width=400&new_max_height=600",
-    "site_name": "DB Zachenberg km 98-98.35",
+    "site_name": "DB Zachenberg",
     "category": "Rockfall",
     "states": "Germany",
     "inscribed_date": 2014,
@@ -259,7 +259,7 @@
     "longitude": 9.361222,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "Romanshorn Headquarters",
-    "category": "Smartbox",
+    "category": "Corrosion",
     "states": "Switzerland",
     "inscribed_date": 2019,
     "criteria": ""
