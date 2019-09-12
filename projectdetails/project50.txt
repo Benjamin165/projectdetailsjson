@@ -2,7 +2,7 @@
  {
    "monument_id": 50,
    "site_name": "Zagorje-Renke",
-   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/50_Zagorje/zagorje_sb_1.jpg",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/50_Zagorje/zagorje_sb_tn1.jpg",
    "latitude": 46.107642,
    "longitude": 14.969247,
    "category": "Smartbox",

@@ -2,7 +2,7 @@
  {
    "monument_id": 59,
    "site_name": "Heiligenberg",
-   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg2.jpg",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_tn2.jpg",
    "latitude": 47.822923,
    "longitude": 9.305469,
    "category": "Smartbox",

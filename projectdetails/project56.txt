@@ -2,7 +2,7 @@
  {
    "monument_id": 56,
    "site_name": "Kubel St. Gallen",
-   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/55_Kubel/kubel_sb_2.jpg",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/55_Kubel/kubel_sb_tn2.jpg",
    "latitude": 47.248,
    "longitude": 9.1928,
    "category": "Smartbox",
