@@ -2,7 +2,7 @@
  {
    "monument_id": 47,
    "site_name": "Avenida La Marina",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fcartagena_2.jpg&new_max_width=142&new_max_height=80",
    "latitude": -33.55104,
    "longitude": -71.61015,
    "category": "Corrosion",

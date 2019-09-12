@@ -2,7 +2,7 @@
  {
    "monument_id": 46,
    "site_name": "Schneizelreuth B305",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FKorrosion_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fschneizelreuth_1.jpg&new_max_width=142&new_max_height=80",
    "latitude": 47.711732,
    "longitude": 12.7908,
    "category": "Corrosion",
