@@ -575,7 +575,7 @@
   {
     "monument_id": 53,
     "latitude": 47.2249,
-    "longitude": 9.32,
+    "longitude": 9.320005,
     "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/53_Altstaetten/altstaetten_sb_tn1.jpg",
     "site_name": "Altstätten",
     "category": "Smartbox",
@@ -586,7 +586,7 @@
   {
     "monument_id": 54,
     "latitude": 47.2249,
-    "longitude": 9.32,
+    "longitude": 9.320002,
     "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/53_Altstaetten/altstaetten_sb_tn2.jpg",
     "site_name": "Altstätten",
     "category": "Smartbox",

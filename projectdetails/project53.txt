@@ -4,7 +4,7 @@
    "site_name": "Altstätten",
    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/53_Altstaetten/altstaetten_sb_tn1.jpg",
    "latitude": 47.2249,
-   "longitude": 9.32,
+   "longitude": 9.320005,
    "category": "Smartbox",
    "states": "Switzerland",
    "criteria": "VX-080",
