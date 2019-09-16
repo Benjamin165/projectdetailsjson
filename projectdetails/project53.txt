@@ -12,7 +12,7 @@
    "inscribed_date": 2019,
    "extension": 0,
    "historical_description": "",
-   "site_url": "https://snapshot.raintank.io/dashboard/snapshot/9t0krajSj28zXdTf7SXmulK1FHOBqXg1?orgId=2&kiosk",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/9t0krajSj28zXdTf7SXmulK1FHOBqXg1?orgId=2&kiosk&panelId=4&from=1568450493604&to=1568623293605&var-device=xfh8-4tk6-d1mx-z3i7&var-device=b5nl-1t38-819t-zn8r",
    "justification": "",
    "location_description": "Location description",
    "long_descsription": "<p>Situation</p>",
