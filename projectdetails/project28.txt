@@ -2,7 +2,7 @@
  {
    "monument_id": 28,
    "site_name": "Lumahai & Wainiha",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRenke_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/Placeholder.jpg",
    "latitude": 22.214222,
    "longitude": -159.525444,
    "category": "Corrosion",

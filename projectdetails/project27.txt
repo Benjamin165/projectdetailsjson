@@ -2,7 +2,7 @@
  {
    "monument_id": 27,
    "site_name": "Levack, Ontario",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Flevack_1.jpg&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/27_Levack/levack_tn.jpg",
    "latitude": 46.66402,
    "longitude": -81.363457,
    "category": "Corrosion",

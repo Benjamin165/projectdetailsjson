@@ -2,7 +2,7 @@
  {
    "monument_id": 9,
    "site_name": "Renke L2",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRenke_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/09_RenkeL2/RenkeL2_tn.jpg",
    "latitude": 45.9676131,
    "longitude": 14.0578409,
    "category": "Rockfall",

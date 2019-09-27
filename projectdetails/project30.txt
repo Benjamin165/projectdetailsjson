@@ -2,7 +2,7 @@
  {
    "monument_id": 30,
    "site_name": "Wisemans Bridge",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fwisemansbridge-thumbnail.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/30_WisemansBridge/wisemansbridge_tn.jpg",
    "latitude": 51.719557,
    "longitude": -4.689462,
    "category": "Rockfall",

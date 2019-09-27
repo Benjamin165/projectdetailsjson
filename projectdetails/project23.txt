@@ -2,7 +2,7 @@
  {
    "monument_id": 23,
    "site_name": "Bergwald Wolfartsweier A8",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fbergwald_1.jpg&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/23_Bergwald/bergwald_tn.jpg",
    "latitude": 48.971361,
    "longitude": 8.457,
    "category": "Corrosion",

@@ -2,7 +2,7 @@
  {
    "monument_id": 20,
    "site_name": "Paddy's Path",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fpaddyspath_2.JPG&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/20_PaddysPath/paddyspath_tn.jpg",
    "latitude": -38.63325,
    "longitude": 143.893944,
    "category": "Corrosion",

@@ -2,7 +2,7 @@
  {
    "monument_id": 10,
    "site_name": "Stromeferry",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FIMG_2198.jpg&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/10_Stromeferry/Stromeferry_tn.jpg",
    "latitude": 57.381111,
    "longitude": -5.475278,
    "category": "Corrosion",

@@ -2,7 +2,7 @@
  {
    "monument_id": 19,
    "site_name": "Kaikoura",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fkaikoura_tn.jpg&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/19_Kaikoura/kaikoura_tn.jpg",
    "latitude": -42.2775,
    "longitude": 173.778194,
    "category": "Corrosion",

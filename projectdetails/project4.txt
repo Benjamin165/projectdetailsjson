@@ -2,7 +2,7 @@
  {
    "monument_id": 4,
    "site_name": "Hollfeld St2189",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FHollfeld_142x80.jpg&new_max_width=400&new_max_height=600",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/04_Hollfeld/Hollfeld_tn.jpg",
    "latitude": 49.959275,
    "longitude": 11.292152,
    "category": "Rockfall",

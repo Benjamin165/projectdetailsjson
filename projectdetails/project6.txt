@@ -2,7 +2,7 @@
  {
    "monument_id": 6,
    "site_name": "DB Regensburg",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FDB_Regensburg_142x80.jpg&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/06_Regensburg/Regensburg_tn.jpg",
    "latitude": 49.014222,
    "longitude": 12.024705,
    "category": "Rockfall",

@@ -2,7 +2,7 @@
  {
    "monument_id": 21,
    "site_name": "Cathedral Rock",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fcathedral_1.jpg&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/21_CathedralRock/cathedral_tn.jpg",
    "latitude": -38.50066,
    "longitude": 144.006527,
    "category": "Corrosion",

@@ -2,7 +2,7 @@
  {
    "monument_id": 48,
    "site_name": "Pabellón de Pica",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fpabellon_tn.jpg&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/48_Pabellon/pabellon_tn.jpg",
    "latitude": -21.21392,
    "longitude": -70.09231,
    "category": "Corrosion",

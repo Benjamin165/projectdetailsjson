@@ -2,7 +2,7 @@
  {
    "monument_id": 2,
    "site_name": "Oberjoch B308",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FOberjoch_142x80.jpg&new_max_width=400&new_max_height=600",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/02_Oberjoch/Oberjoch_tn.jpg",
    "latitude": 47.510728,
    "longitude": 10.390112,
    "category": "Rockfall",

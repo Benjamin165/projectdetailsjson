@@ -2,7 +2,7 @@
  {
    "monument_id": 8,
    "site_name": "Dornburg L 2303",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2F8_Dornburg_thumbnail_142x80.JPG&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/08_Dornburg/Dornburg_tn.jpg",
    "latitude": 51.00477,
    "longitude": 11.668207,
    "category": "Rockfall",

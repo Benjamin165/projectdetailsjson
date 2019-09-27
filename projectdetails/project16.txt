@@ -2,7 +2,7 @@
  {
    "monument_id": 16,
    "site_name": "La Cotte De St. Brellade Jersey",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Flacotte_1.JPG&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/16_LaCotteDeStBrellade/lacotte_tn.jpg",
    "latitude": 49.175333,
    "longitude": -2.188139,
    "category": "Corrosion",

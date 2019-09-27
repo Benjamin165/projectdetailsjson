@@ -2,7 +2,7 @@
  {
    "monument_id": 7,
    "site_name": "DB Cochem",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FCochem_thumbnail_142x80.JPG&new_max_width=400&new_max_height=600",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/07_Cochem/Cochem_tn.jpg",
    "latitude": 50.162984,
    "longitude": 7.181564,
    "category": "Rockfall",

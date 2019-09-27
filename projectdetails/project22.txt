@@ -2,7 +2,7 @@
  {
    "monument_id": 22,
    "site_name": "Marino, Adelaide",
-   "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2Fmarino_4.JPG&new_max_width=142&new_max_height=80",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/22_Marino/marino_tn.jpg",
    "latitude": -35.0491944,
    "longitude": 138.506555,
    "category": "Corrosion",
