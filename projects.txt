@@ -94,7 +94,7 @@
     "longitude": 14.0578409,
     "thumbnail": "https://www.geobrugg.com/bild.php?src=portal%2Fgalerien%2Fpics%2FTest-Benjamin%2FRenke_thumbnail_142x80.jpg&new_max_width=400&new_max_height=600",
     "site_name": "Renke L2",
-    "category": "Slope",
+    "category": "Rockfall",
     "states": "Slovenia",
     "inscribed_date": 2017,
     "criteria":"RXE-500"
@@ -634,7 +634,7 @@
     "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_tn1.jpg",
     "site_name": "Heiligenberg",
     "category": "Smartbox",
-    "states": "Switzerland",
+    "states": "Germany",
     "inscribed_date": 2019,
     "criteria": "RXI-050"
   },
@@ -645,7 +645,7 @@
     "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_tn2.jpg",
     "site_name": "Heiligenberg",
     "category": "Smartbox",
-    "states": "Switzerland",
+    "states": "Germany",
     "inscribed_date": 2019,
     "criteria": "RXI-050"
   },
@@ -656,7 +656,7 @@
     "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_tn3.jpg",
     "site_name": "Heiligenberg",
     "category": "Smartbox",
-    "states": "Switzerland",
+    "states": "Germany",
     "inscribed_date": 2019,
     "criteria": "RXI-050"
   }
