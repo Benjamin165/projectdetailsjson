@@ -2,7 +2,7 @@
  {
    "monument_id": 28,
    "site_name": "Lumahai & Wainiha",
-    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/Placeholder.jpg",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/Placeholder_tn.jpg",
    "latitude": 22.214222,
    "longitude": -159.525444,
    "category": "Corrosion",
