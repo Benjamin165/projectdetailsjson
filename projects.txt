@@ -125,7 +125,7 @@
     "monument_id": 12,
     "latitude": 50.727306,
     "longitude": -2.292167,
-    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/12_LymeRegis/lymeregis_tn.jpg",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/12_LymeRegis/lymeregis_tn.JPG",
     "site_name": "Lyme Regis",
     "category": "Corrosion",
     "states": "United Kingdom",
