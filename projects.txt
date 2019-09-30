@@ -664,7 +664,7 @@
     "monument_id": 61,
     "latitude": 46.744304,
     "longitude": 9.967878,
-    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_tn3.jpg",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/60_Chant Sura/chantsura_tn.jpg",
     "site_name": "Chant Sura",
     "category": "Smartbox",
     "states": "Switzerland",
@@ -675,7 +675,7 @@
     "monument_id": 62,
     "latitude": 46.744402,
     "longitude": 9.968214,
-    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_tn3.jpg",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/60_Chant Sura/chantsura_tn.jpg",
     "site_name": "Chant Sura",
     "category": "Smartbox",
     "states": "Switzerland",
@@ -686,7 +686,7 @@
     "monument_id": 63,
     "latitude": 46.744412,
     "longitude": 9.968530,
-    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_tn3.jpg",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/60_Chant Sura/chantsura_tn.jpg",
     "site_name": "Chant Sura",
     "category": "Smartbox",
     "states": "Switzerland",
@@ -697,12 +697,45 @@
     "monument_id": 64,
     "latitude": 46.744616,
     "longitude": 9.968672,
-    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/58_Heiligenberg/heiligenberg_tn3.jpg",
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/60_Chant Sura/chantsura_tn.jpg",
     "site_name": "Chant Sura",
     "category": "Smartbox",
     "states": "Switzerland",
     "inscribed_date": 2019,
     "criteria": "ROCCO 2000"
+  },
+  {
+    "monument_id": 65,
+    "latitude": 47.612322,
+    "longitude": 13.038113,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/65_Kehlsteinstrasse/kehlsteinstrasse_tn.jpg",
+    "site_name": "Kehlsteinstrasse",
+    "category": "Smartbox",
+    "states": "Germany",
+    "inscribed_date": 2019,
+    "criteria": "RXI-025"
+  },
+  {
+    "monument_id": 66,
+    "latitude": 47.612338,
+    "longitude": 13.037515,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/65_Kehlsteinstrasse/kehlsteinstrasse_tn.jpg",
+    "site_name": "Kehlsteinstrasse",
+    "category": "Smartbox",
+    "states": "Germany",
+    "inscribed_date": 2019,
+    "criteria": "RXI-025"
+  },
+  {
+    "monument_id": 67,
+    "latitude": 47.6123382,
+    "longitude": 13.0375152,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/65_Kehlsteinstrasse/kehlsteinstrasse_tn.jpg",
+    "site_name": "Kehlsteinstrasse",
+    "category": "Smartbox",
+    "states": "Germany",
+    "inscribed_date": 2019,
+    "criteria": "RXI-025"
   }
 ]
 }
