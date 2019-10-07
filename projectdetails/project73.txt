@@ -1,0 +1,27 @@
+﻿{"data":
+ {
+   "monument_id": 73,
+   "site_name": "Rayol-Canadel",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/72_RayolCanadel/RayolCanadel_tn.jpg",
+   "latitude": 43.160223,
+   "longitude": 6.459468,
+   "category": "Smartbox",
+   "states": "France",
+   "criteria": "GBE-2000A",
+   "danger": "",
+   "inscribed_date": 2019,
+   "extension": 0,
+   "historical_description": "",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/OiSYrktOOtpXDcfx8CjK37Xi2V7gI2NX?orgId=2&kiosk&panelId=4&from=1570271956502&to=1570444756502&var-device=a43l-ilxn-3gnp-zb59&var-device=j4mx-8w16-62s5-1tup&var-device=lh35-3njx-53it-72wd&var-device=xr9s-gurj-unfk-8nbs",
+   "justification": "",
+   "location_description": "Location description",
+   "long_descsription": "<p>Situation</p>",
+   "region": "France",
+   "revision": 0,
+   "short_description": "FR0001bP3",
+   "transboundary": 0,
+   "unique_number": 4,
+   "isoCode": "fr",
+   "secondary_dates": 2001
+ }
+}

@@ -1,6 +1,6 @@
 ﻿{"data":
  {
-   "monument_id": 65,
+   "monument_id": 67,
    "site_name": "Kehlsteinstrasse",
    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/65_Kehlsteinstrasse/kehlsteinstrasse_tn.jpg",
    "latitude": 47.6123382,

@@ -736,6 +736,83 @@
     "states": "Germany",
     "inscribed_date": 2019,
     "criteria": "RXI-025"
+  },
+  {
+    "monument_id": 68,
+    "latitude": 51.719378,
+    "longitude": -4.689857,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/68_WisemanSB/WisemansSB_tn.jpg",
+    "site_name": "Wiseman's Bridge",
+    "category": "Smartbox",
+    "states": "United Kingdom",
+    "inscribed_date": 2019,
+    "criteria": "GBE-100A-R"
+  },
+  {
+    "monument_id": 69,
+    "latitude": 49.21216,
+    "longitude": 20.48428,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/69_PiwnicznaWierchomla/Piwniczna_tn.jpg",
+    "site_name": "Piwniczna Wierchomla",
+    "category": "Smartbox",
+    "states": "Poland",
+    "inscribed_date": 2019,
+    "criteria": "GBE-500A"
+  },
+  {
+    "monument_id": 70,
+    "latitude": 49.25571,
+    "longitude": 20.43132,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/70_PiwnicznaDK87/PiwnicznaDK87_tn.jpg",
+    "site_name": "DK87 Piwniczna",
+    "category": "Smartbox",
+    "states": "Poland",
+    "inscribed_date": 2019,
+    "criteria": "GBE-500A"
+  },
+  {
+    "monument_id": 71,
+    "latitude": 49.25560,
+    "longitude": 20.43185,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/70_PiwnicznaDK87/PiwnicznaDK87_tn.jpg",
+    "site_name": "DK 87 Piwniczna",
+    "category": "Smartbox",
+    "states": "Poland",
+    "inscribed_date": 2019,
+    "criteria": "GBE-500A"
+  },
+  {
+    "monument_id": 72,
+    "latitude": 43.160281,
+    "longitude": 6.459558,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/72_RayolCanadel/RayolCanadel_tn.jpg",
+    "site_name": "Rayol-Canadel",
+    "category": "Smartbox",
+    "states": "France",
+    "inscribed_date": 2019,
+    "criteria": "GBE-2000A"
+  },
+  {
+    "monument_id": 73,
+    "latitude": 43.160223,
+    "longitude": 6.459468,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/72_RayolCanadel/RayolCanadel_tn.jpg",
+    "site_name": "Rayol-Canadel",
+    "category": "Smartbox",
+    "states": "France",
+    "inscribed_date": 2019,
+    "criteria": "GBE-2000A"
+  },
+  {
+    "monument_id": 74,
+    "latitude": 43.159798,
+    "longitude": 6.458912,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/72_RayolCanadel/RayolCanadel_tn.jpg",
+    "site_name": "Rayol-Canadel",
+    "category": "Smartbox",
+    "states": "France",
+    "inscribed_date": 2019,
+    "criteria": "GBE-2000A"
   }
 ]
 }
