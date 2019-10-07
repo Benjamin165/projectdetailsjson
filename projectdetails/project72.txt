@@ -12,7 +12,7 @@
    "inscribed_date": 2019,
    "extension": 0,
    "historical_description": "",
-   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/OiSYrktOOtpXDcfx8CjK37Xi2V7gI2NX?orgId=2&kiosk&panelId=4&from=1570271956502&to=1570444756502&var-device=a43l-ilxn-3gnp-zb59&var-device=j4mx-8w16-62s5-1tup&var-device=lh35-3njx-53it-72wd&var-device=xr9s-gurj-unfk-8nbs",
+   "site_url": "https://snapshot.raintank.io/dashboard-solo/snapshot/5dPXmdrwiWNGiU5mczqUSHGD9T6ohtha?orgId=2&kiosk&panelId=4&from=1570274770607&to=1570447570607&var-device=sjm2-idq5-j4kq-4d25&var-device=nuv9-5hle-facr-utag&var-device=zs64-99pd-g4cz-wvmq",
    "justification": "",
    "location_description": "Location description",
    "long_descsription": "<p>Situation</p>",
