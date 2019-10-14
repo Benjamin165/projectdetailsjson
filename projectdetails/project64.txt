@@ -2,7 +2,7 @@
  {
    "monument_id": 64,
    "site_name": "Chant Sura",
-   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/60_Chant Sura/chantsura_tn.jpg",
+   "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/61_Chant Sura/chantsura_tn.jpg",
    "latitude": 46.744616,
    "longitude": 9.968672,
    "category": "Smartbox",
