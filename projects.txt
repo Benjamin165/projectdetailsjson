@@ -813,6 +813,17 @@
     "states": "France",
     "inscribed_date": 2019,
     "criteria": "GBE-2000A"
+  },
+  {
+    "monument_id": 75,
+    "latitude": 38.984186,
+    "longitude": 9.01999,
+    "thumbnail": "https://projectdetailsjson.netlify.com/picturesjpeg/75_Sardinia/Sardinia_tn.jpg",
+    "site_name": "Sardinia",
+    "category": "Smartbox",
+    "states": "Italy",
+    "inscribed_date": 2019,
+    "criteria": "TECCO"
   }
 ]
 }
