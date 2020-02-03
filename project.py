@@ -45,7 +45,7 @@ class project:
         self.file_name = "project" + str(self.project_details["data"]["monument_id"]) + ".txt"
         self.pics["data"] = list()
         x = 0
-        for x in range(pics - 1):
+        for x in range(pics):
             self.pics["data"].append({
                 "picture_id": x + 1,
                 "approved": 1,
@@ -54,6 +54,18 @@ class project:
                 })
     
  
+    def create_txt_file(self):
+        complete_path_data = "./projectdetails/" + self.file_name
+        complete_path_pic = "./projectpictures/pics" + self.file_name
+        if os.path.isfile(complete_path_data):
+            print("File already exists!")
+        else:
+            text_file = open(complete_path_data, "w")
+            text_file.write(json.dumps(self.project_details))
+            text_file.close()
+            pic_file = open(complete_path_pic, "w")
+            pic_file.write(json.dumps(self.pics))
+            pic_file.close()
 
     def set_thumbnail(self, url):
         url_pattern = re.compile(r"""(?xi)
@@ -187,17 +199,7 @@ class InputError():
 
 #for testing ---  will go into editor.py in some form
 x = project(100, 3, "Azeroth")
-complete_path_data = "./projectdetails/" + x.file_name
-complete_path_pic = "./projectpictures/pics" + x.file_name
-if os.path.isfile(complete_path_data):
-    print("File already exists!")
-else:
-    text_file = open(complete_path_data, "w")
-    text_file.write(json.dumps(x.project_details))
-    text_file.close()
-    pic_file = open(complete_path_pic, "w")
-    pic_file.write(json.dumps(x.pics))
-    pic_file.close()
+x.create_txt_file()
 
 
 print(json.dumps(x.pics))
