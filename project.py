@@ -30,22 +30,30 @@ class project:
             "secondary_dates": 2001
         }
     }
+    amount_pics = 0
 
+    pics = {
+        "data": []
+    }
 
     #unclear if correct, possible point for bugs
-    def __init__(self, id):
+    def __init__(self, id, pics, name):
         self.data = []
+        self.amount_pics = pics
         self.project_details["data"]["monument_id"] = id
-        self.file_name = "/project" + str(self.project_details["data"]["monument_id"]) + ".txt"
-
-    def set_monument_id(self, id):
-       self.project_details["data"]["monument_id"] = id
+        self.project_details["data"]["site_name"] = name
+        self.file_name = "project" + str(self.project_details["data"]["monument_id"]) + ".txt"
+        self.pics["data"] = list()
+        x = 0
+        for x in range(pics - 1):
+            self.pics["data"].append({
+                "picture_id": x + 1,
+                "approved": 1,
+                "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/" + str(id) + "_" + name + "/" + name + "_"  + str(x) + ".jpg",
+                "monument_id": id
+                })
     
-    def set_site_name(self, name):
-        if type(name) != str:
-            print("Input is not a String")
-        else:
-            self.project_details["data"]["site_name"] = name
+ 
 
     def set_thumbnail(self, url):
         url_pattern = re.compile(r"""(?xi)
@@ -178,13 +186,18 @@ class InputError():
 
 
 #for testing ---  will go into editor.py in some form
-x = project(100)
-complete_path = "./projectdetails" + x.file_name
-if os.path.isfile(complete_path):
+x = project(100, 3, "Azeroth")
+complete_path_data = "./projectdetails/" + x.file_name
+complete_path_pic = "./projectpictures/pics" + x.file_name
+if os.path.isfile(complete_path_data):
     print("File already exists!")
 else:
-    text_file = open(complete_path, "w")
+    text_file = open(complete_path_data, "w")
     text_file.write(json.dumps(x.project_details))
     text_file.close()
+    pic_file = open(complete_path_pic, "w")
+    pic_file.write(json.dumps(x.pics))
+    pic_file.close()
 
-print(json.dumps(x.project_details))
+
+print(json.dumps(x.pics))
