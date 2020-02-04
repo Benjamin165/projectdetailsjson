@@ -2,7 +2,7 @@ import re
 import json
 import os.path
 
-class project:
+class Project:
     project_details = {
         "data": {
             "monument_id": 0,
@@ -66,6 +66,20 @@ class project:
             pic_file = open(complete_path_pic, "w")
             pic_file.write(json.dumps(self.pics))
             pic_file.close()
+
+    def converted_project(self):
+        conv = {
+            "monument_id": self.project_details["data"]["monument_id"],
+            "latitude": self.project_details["data"]["latitude"],
+            "longitude": self.project_details["data"]["longitude"],
+            "thumbnail": self.project_details["data"]["thumbnail"],
+            "site_name": self.project_details["data"]["site_name"],
+            "category": self.project_details["data"]["category"],
+            "states": self.project_details["data"]["states"],
+            "inscribed_date": self.project_details["data"]["inscribed_date"],
+            "criteria": self.project_details["data"]["criteria"]
+        }
+        return(conv)
 
     def set_thumbnail(self, url):
         url_pattern = re.compile(r"""(?xi)
@@ -146,16 +160,11 @@ class project:
         else:
             self.project_details["data"]["latitude"] = lat
             self.project_details["data"]["longitude"] = lon
-
-    #generate a json from the dictionary and save it as .txt file
-    def generate_txt(self, id):
-        pass
-
-    
+ 
 
 #subclass for Rockfall projects -- category overwritten -- methods for documents
-class rockfall(project):
-    rockfall_details = dict(project.project_details)
+class Rockfall(Project):
+    rockfall_details = dict(Project.project_details)
     rockfall_details["data"]["category"] = "Rockfall"
     def set_acceptance_cert(self, url):
         self.rockfall_details["data"]["historical_description"] = url
@@ -165,22 +174,22 @@ class rockfall(project):
     
 
 #subclass for Smartbox projects -- category overwritten -- method for snapshot URL
-class smartbox(project):
-    smartbox_details = dict(project.project_details)
+class Smartbox(Project):
+    smartbox_details = dict(Project.project_details)
     smartbox_details["data"]["category"] = "Smartbox"
     def set_snapshot(self, url):
         self.smartbox_details["data"]["site_url"] = url
     
 
 #subclass for Slope projects -- category overwritten
-class slope(project):
-    slope_details = dict(project.project_details)
+class Slope(Project):
+    slope_details = dict(Project.project_details)
     slope_details["data"]["category"] = "Slope"
     
 
 #Subclass for corrosion projects -- category overwritten
-class corrosion(project):
-    corrosion_details = dict(project.project_details)
+class Corrosion(Project):
+    corrosion_details = dict(Project.project_details)
     corrosion_details["data"]["category"] = "Corrosion"
     
 
@@ -198,8 +207,3 @@ class InputError():
 
 
 #for testing ---  will go into editor.py in some form
-x = project(100, 3, "Azeroth")
-x.create_txt_file()
-
-
-print(json.dumps(x.pics))
