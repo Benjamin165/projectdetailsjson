@@ -8,14 +8,21 @@ class ProjectList:
     def add_project(self, project):
         last_id = self.data["data"][-1]["monument_id"]
         self.data["data"].append(project.converted_project())
-        self.data["data"][-1]["monument_id"] = last_id + 1
-
-
+        new_last = last_id + 1
+        self.data["data"][-1]["monument_id"] = new_last
+        project.project_details["data"]["monument_id"] = new_last
+        for x in range(project.amount_pics):
+            project.pics["data"][x]["monument_id"] = new_last
+        project.create_txt_file()
+        projects_file = open("projects.txt", "w")
+        projects_file.write(json.dumps(self.data))
+        projects_file.close()
+        
 
 #for testing 
-p = project.Project(100, 4, "Amazin")
+p = project.Project(4, "Amazin")
 print(p.converted_project())
 x = ProjectList()
-print(x.data["data"][7])
+print(x.data["data"][-1])
 x.add_project(p)
-print()
+print(x.data["data"][-1])

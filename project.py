@@ -36,25 +36,24 @@ class Project:
         "data": []
     }
 
-    #unclear if correct, possible point for bugs
-    def __init__(self, id, pics, name):
+    #constructor with no. of pics and project name
+    def __init__(self, pics, name):
         self.data = []
         self.amount_pics = pics
-        self.project_details["data"]["monument_id"] = id
         self.project_details["data"]["site_name"] = name
-        self.file_name = "project" + str(self.project_details["data"]["monument_id"]) + ".txt"
         self.pics["data"] = list()
         x = 0
-        for x in range(pics):
+        for x in range(self.amount_pics):
             self.pics["data"].append({
                 "picture_id": x + 1,
                 "approved": 1,
-                "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/" + str(id) + "_" + name + "/" + name + "_"  + str(x) + ".jpg",
-                "monument_id": id
+                "picture_url": "https://projectdetailsjson.netlify.com/picturesjpeg/" + str(self.project_details["data"]["monument_id"]) + "_" + name + "/" + name + "_"  + str(x) + ".jpg",
+                "monument_id": self.project_details["data"]["monument_id"]
                 })
     
  
     def create_txt_file(self):
+        self.file_name = "project" + str(self.project_details["data"]["monument_id"]) + ".txt"
         complete_path_data = "./projectdetails/" + self.file_name
         complete_path_pic = "./projectpictures/pics" + self.file_name
         if os.path.isfile(complete_path_data):
